@@ -1,0 +1,69 @@
+Food Shazam aplicación móvil de reconocimiento visual de comidas a través de nuestra API LOGMEAL
+que es para reconocer comidas e ingredientes 
+mas que todo es una intelicia artificial con deep learning para el 
+reconocimiento de comidas
+
+El proyecto a realizar refiere a la creación de un diseño para la implementación de una aplicación 
+móvil de restaurante de comidas rápidas tipo shaman, le permite detectar información sobre una 
+imagen donde se pretenderá demostrar que mediante un api de reconocimiento de imágenes todo tipo 
+de platos de comidas podrá ser descrito desde de los ingredientes y las recetas
+
+objetivo: El propósito del proyecto es desarrollar una aplicación móvil que permita extraer 
+información de las etiquetas de los alimentos mediante reconocimiento visual de ingredientes
+ y comidas a través de machine learning nuestro objetivo es garantizar que la información 
+almacenada en la aplicación sea de ayuda para las personas en sus comidas diarias
+
+LOGMEAL NUESTRA API
+Analiza en tiempo real tus comidas con solo tomarle una foto. 
+Basado en el deep learning y la inteligencia artificial 
+
+el framework es react native en cuanto a la ia que estamos utilizando
+que se llama logmeal que es para reconocer comidas e ingredientes 
+mas que todo es una intelicia artificial con deep learning para el 
+reconocimiento de comidas
+Nuestra API de alimentos de propósito 
+general detecta más de 880 platos diferentes utilizando el conjunto de datos 
+de imágenes de alimentos más grande del mundo.
+en cuanto a las tecnologias rest api 
+
+de lado del servidor
+nodejs
+
+prima para el manejo de la bd es orm
+express para crear los servicos
+typescript
+google maps
+
+es una aplicacion que funciona en ambos dispositivos android y ios 
+que reconoce los ingredientes
+usamos un orm para un mejor manejo explicito
+
+expo es una libreria que te permite crear aplicaciones moviles portables
+podes generar la aplicacion sin necesidad de instalarlas atraves de un QR
+es mas facil llevar a produccion
+
+en la aplicacion movil redux es un manejador de estado
+que hace que la aplicacion escalable y de alto rendimiento
+una aplicacion globalizada
+
+Comience a crear proyectos utilizando tecnologías web con solo su dispositivo iOS 
+y su computadora. Expo es una herramienta de desarrollo para crear experiencias 
+con gestos y gráficos interactivos utilizando JavaScript y React.
+
+-----------------
+FRAMEWORK---React Native (para hacer correr
+sobre las plataformas moviles nativas, en
+este caso android y IOS)
+Type Script
+Google Maps
+
+INTELIGENCIA ARTIFICIAL---LogMeal para el
+reconocimiento de ingredientes de una comida
+
+BASE DE DATOS---Prisma (ORM) para un manejo
+mas facil de la BD
+
+EXPO---Libreria para crear app de manera
+sencilla, ya que tiene varias librerias ya
+definidas para su uso, es facil de usar ya
+que se hace a traves de un codigo qr
